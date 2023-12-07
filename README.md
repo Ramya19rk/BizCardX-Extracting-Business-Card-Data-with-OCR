@@ -8,7 +8,7 @@ BATCH: D98
 
 DOMAIN : DATA SCIENCE
 
-DEMO VIDEO URL : 
+DEMO VIDEO URL : https://www.linkedin.com/posts/ramyakrishnan19_introducing-bizcardx-transforming-business-activity-7138380957367078913-kwYf?utm_source=share&utm_medium=member_desktop
 
 Linked in URL : www.linkedin.com/in/ramyakrishnan19
 
