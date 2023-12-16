@@ -4,7 +4,7 @@ Problem Statement: Develop an OCR-based solution, BizCardX, to efficiently extra
 
 NAME : RAMYA KRISHNAN A
 
-BATCH: D98
+BATCH: DW75DW76
 
 DOMAIN : DATA SCIENCE
 
