@@ -46,7 +46,7 @@ reader = easyocr.Reader(['en'])
 
 config = {'host' : 'localhost',
               'user' : 'root',
-              'password' : 'Arulezhil@71',
+              'password' : 'xxxxx',
               'database' : 'bizcardxs'}
 
 conn = mysql.connector.connect(**config)
